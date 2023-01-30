@@ -1,0 +1,13 @@
+.container, .container-fluid{
+    border: 1px solid brown;
+}
+.row{
+    margin-bottom: 10px;
+    height: 150px;
+    border: 1px solid blue;
+}   
+.row div{
+    border: 1px solid green;
+    height: 50px;
+}
+
