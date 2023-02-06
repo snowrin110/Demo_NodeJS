@@ -6,3 +6,12 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.jumpotron{
+    margin-top: 10px;
+}
+
+.img-fluid{
+    height: 300px;
+    width: 100%;
+}
